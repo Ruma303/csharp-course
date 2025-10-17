@@ -1,0 +1,14 @@
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/1-intro/bin/Debug/net9.0/1-intro
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/1-intro/bin/Debug/net9.0/1-intro.deps.json
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/1-intro/bin/Debug/net9.0/1-intro.runtimeconfig.json
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/1-intro/bin/Debug/net9.0/1-intro.dll
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/1-intro/bin/Debug/net9.0/1-intro.pdb
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/1-intro/obj/Debug/net9.0/1-intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/1-intro/obj/Debug/net9.0/1-intro.AssemblyInfoInputs.cache
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/1-intro/obj/Debug/net9.0/1-intro.AssemblyInfo.cs
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/1-intro/obj/Debug/net9.0/1-intro.csproj.CoreCompileInputs.cache
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/1-intro/obj/Debug/net9.0/1-intro.dll
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/1-intro/obj/Debug/net9.0/refint/1-intro.dll
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/1-intro/obj/Debug/net9.0/1-intro.pdb
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/1-intro/obj/Debug/net9.0/1-intro.genruntimeconfig.cache
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/1-intro/obj/Debug/net9.0/ref/1-intro.dll
