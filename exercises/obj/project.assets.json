@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/1-intro/1-intro.csproj",
-      "projectName": "1-intro",
-      "projectPath": "/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/1-intro/1-intro.csproj",
+      "projectUniqueName": "/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/exercises/exercises.csproj",
+      "projectName": "exercises",
+      "projectPath": "/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/exercises/exercises.csproj",
       "packagesPath": "/Users/ruma/.nuget/packages/",
-      "outputPath": "/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/1-intro/obj/",
+      "outputPath": "/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/exercises/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ruma/.nuget/NuGet/NuGet.Config"

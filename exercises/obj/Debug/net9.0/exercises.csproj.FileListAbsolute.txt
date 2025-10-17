@@ -1,0 +1,15 @@
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/exercises/bin/Debug/net9.0/exercises
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/exercises/bin/Debug/net9.0/exercises.deps.json
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/exercises/bin/Debug/net9.0/exercises.runtimeconfig.json
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/exercises/bin/Debug/net9.0/exercises.dll
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/exercises/bin/Debug/net9.0/exercises.pdb
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/exercises/obj/Debug/net9.0/exercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/exercises/obj/Debug/net9.0/exercises.AssemblyInfoInputs.cache
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/exercises/obj/Debug/net9.0/exercises.AssemblyInfo.cs
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/exercises/obj/Debug/net9.0/exercises.csproj.CoreCompileInputs.cache
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/exercises/obj/Debug/net9.0/exercises.sourcelink.json
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/exercises/obj/Debug/net9.0/exercises.dll
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/exercises/obj/Debug/net9.0/refint/exercises.dll
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/exercises/obj/Debug/net9.0/exercises.pdb
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/exercises/obj/Debug/net9.0/exercises.genruntimeconfig.cache
+/Users/ruma/Library/Mobile Documents/com~apple~CloudDocs/Sites/Coding/Csharp/Lessons/exercises/obj/Debug/net9.0/ref/exercises.dll
