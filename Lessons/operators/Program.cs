@@ -1,4 +1,4 @@
-﻿namespace _3_operators;
+﻿namespace operators;
 
 class Program
 {
@@ -68,7 +68,7 @@ class Program
     x = 1;   // 1
     Console.WriteLine($"x = {x}");
 
-    
+
     //# Espressioni complesse
     Console.WriteLine("\n\nEspressioni complesse");
     Console.WriteLine($"Espressione complessa: {(g + h) * 2}"); // 32
